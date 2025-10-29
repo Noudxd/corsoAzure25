@@ -2,6 +2,7 @@
 
 namespace MyApi.ExtensionMethods;
 
+//prova commit
 public  static class GeneralHttpExtensions
 {
     public static void RegisterHttpServices( this IServiceCollection services  ) {
